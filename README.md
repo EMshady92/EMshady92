@@ -1,5 +1,5 @@
+<p styles="16px">!Hola mi nombre es Carlos Daniel Pacheco Torres soy Ingeniero en sistemas computacionales con 6 años de experiencia laboral, desarrollando principalmente aplicaciones web.</p>
 
-!Hola mi nombre es Carlos Daniel Pacheco Torres soy Ingeniero en sistemas computacionales con 6 años de experiencia laboral, desarrollando principalmente aplicaciones web.
 <!--
 **EMshady92/EMshady92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
