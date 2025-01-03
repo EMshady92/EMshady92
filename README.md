@@ -1,4 +1,4 @@
-<h1>👋 !Hola, mi nombre es Carlos Daniel Pacheco Torres. Soy ingeniero en sistemas computacionales con 6 años de experiencia laboral, desarrollando principalmente aplicaciones web.</h1>
+<h2>👋 Hi!</h2>
 <img src="https://github.com/user-attachments/assets/4f1b1c14-b0d3-4bb9-a784-6f162e33c2e4">
 
 
